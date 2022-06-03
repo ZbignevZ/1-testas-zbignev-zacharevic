@@ -1,0 +1,59 @@
+main{
+    width:1200px;
+    margin-left: calc(50% - 600px);
+    
+
+}
+
+.content{
+    width: 200px;
+    height: 500px;
+    display: inline-block;
+    float: left;
+    margin-top: 20%;
+    margin-left: 5%;
+    padding: 0;
+
+    
+}
+
+.headings{
+    color:red;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.text{
+    color:black;
+    font-size: 16px;
+    font-weight: normal;
+    text-transform: none;
+    text-align:center;
+    padding: 15px;
+}
+
+img{
+
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    margin-bottom: 15px;
+    align-items: center;    
+}
+.aqua{
+    background-color: aquamarine;
+}
+
+.blue{
+    background-color: royalblue;
+}
+
+.tomato{
+    background-color: tomato;
+}
+
+.grey{
+    background-color: gray;
+}
